@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+#weather{
+    width: 100%;
+    background-image: url('background_weather.jpg');
+    height: 500px;
+}
+h1{
+    font-family: cursive;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    color: white;
+}
+form{
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 70px;
+    text-shadow: 2px 2px black;
+
+    color: white;
+}
+#results{
+    margin: 0 auto;
+    margin-top: 215px;
+    width: 40%;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    text-shadow: 2px 2px black;
+
+}
